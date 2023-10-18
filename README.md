@@ -1,4 +1,4 @@
-# GymBuddy - Your Personal Trainer with Pose Detection
+# GymBuddy - Your Personal Trainer with Human-Pose Estimation
 
 This Python script uses the trt pose library and OpenCV to detect and track human pose from a webcam feed. It can be used as a foundation for various applications, including personal fitness training, yoga posture detection, or even just as a fun tool to learn more about computer vision.
 
